@@ -1,3 +1,6 @@
+
+// Pair Programming - Word Search done with @mhosseinsafi and @s-jesse
+
 const chai = require('chai');
 const assert = chai.assert;
 
